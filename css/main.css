@@ -1,0 +1,44 @@
+body {
+	/*background-color: #00B0AE;*/
+}
+
+
+/*.year {
+
+	font-size: 18px;
+}
+
+.rating {
+	font-size: 24px;
+}*/
+
+.js-container {
+	text-align: center;
+}
+
+.input {
+	margin-top: 50px;
+}
+
+.wrap {
+	float: right;
+}
+
+
+.fresh {
+	
+}
+
+/*.rt-imgs {
+	float: right;
+}*/
+
+/*.js-fresh-button {
+	float: right;
+}*/
+
+.clearfix:after {
+	clear: both;
+	content: "";
+	display: block;
+}
