@@ -3,14 +3,6 @@ body {
 }
 
 
-/*.year {
-
-	font-size: 18px;
-}
-
-.rating {
-	font-size: 24px;
-}*/
 
 .js-container {
 	text-align: center;
@@ -20,25 +12,20 @@ body {
 	margin-top: 50px;
 }
 
-.wrap {
-	float: right;
+
+.button-choices {
+	display: inline-block;
+	width: 45%;
 }
 
-
-.fresh {
-	
-}
-
-/*.rt-imgs {
-	float: right;
-}*/
-
-/*.js-fresh-button {
-	float: right;
-}*/
 
 .clearfix:after {
 	clear: both;
 	content: "";
 	display: block;
+}
+
+.label-style {
+	background-color: white;
+	font-size: 16px;
 }
